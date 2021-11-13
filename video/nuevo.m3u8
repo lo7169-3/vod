@@ -839,17 +839,6 @@ https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_C
 #EXT-X-KEY:METHOD=AES-128,URI="https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_Classic_Popeye_aka_Popeye_the_Sailor_ES_HITS_AND_MISSILES_S1E1/720p/20210216_145251/hls/1032467-end/hls_2400_keyfile_11.key",IV=0x00000000000000000000000000000044
 #EXTINF:0.5,
 https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_Classic_Popeye_aka_Popeye_the_Sailor_ES_HITS_AND_MISSILES_S1E1/720p/20210216_145251/hls/1032467-end/hls_2400-00067.ts
-#EXT-X-DISCONTINUITY
-#EXT-X-PROGRAM-DATE-TIME:2021-11-13T11:52:41.018Z
-#EXT-X-KEY:METHOD=AES-128,URI="https://siloh-latam-aka.plutotv.net/d71341_Pluto_TV_OandO/clip/56c2dcd7cc39dc6567615245_Dancing_Astronaut_15s_v1_Promo/720p/20200303_173052/hls/hls_2400_keyfile_0.key",IV=0x00000000000000000000000000000001
-#EXTINF:5,
-https://siloh-latam-aka.plutotv.net/d71341_Pluto_TV_OandO/clip/56c2dcd7cc39dc6567615245_Dancing_Astronaut_15s_v1_Promo/720p/20200303_173052/hls/hls_2400-00000.ts
-#EXT-X-KEY:METHOD=AES-128,URI="https://siloh-latam-aka.plutotv.net/d71341_Pluto_TV_OandO/clip/56c2dcd7cc39dc6567615245_Dancing_Astronaut_15s_v1_Promo/720p/20200303_173052/hls/hls_2400_keyfile_0.key",IV=0x00000000000000000000000000000002
-#EXTINF:5,
-https://siloh-latam-aka.plutotv.net/d71341_Pluto_TV_OandO/clip/56c2dcd7cc39dc6567615245_Dancing_Astronaut_15s_v1_Promo/720p/20200303_173052/hls/hls_2400-00001.ts
-#EXT-X-KEY:METHOD=AES-128,URI="https://siloh-latam-aka.plutotv.net/d71341_Pluto_TV_OandO/clip/56c2dcd7cc39dc6567615245_Dancing_Astronaut_15s_v1_Promo/720p/20200303_173052/hls/hls_2400_keyfile_0.key",IV=0x00000000000000000000000000000003
-#EXTINF:5,
-https://siloh-latam-aka.plutotv.net/d71341_Pluto_TV_OandO/clip/56c2dcd7cc39dc6567615245_Dancing_Astronaut_15s_v1_Promo/720p/20200303_173052/hls/hls_2400-00002.ts
 #EXT-X-ENDLIST
 #PLUTO-SESSION-ID:3422b740-0c64-11eb-9b97-0242ac110002
 #PLUTO-VERSION:2.59.0-production-stitcher-blue
