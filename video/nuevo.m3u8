@@ -2,9 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-TARGETDURATION:5
-#EXT-X-DISCONTINUITY-SEQUENCE:0
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-PROGRAM-DATE-TIME:2021-11-13T11:29:53.052Z
 #EXT-X-KEY:METHOD=AES-128,URI="https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_Classic_Popeye_aka_Popeye_the_Sailor_ES_HITS_AND_MISSILES_S1E1/720p/20210216_145251/hls/0-345346/hls_2400_keyfile_0.key",IV=0x00000000000000000000000000000001
 #EXTINF:5,
 https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_Classic_Popeye_aka_Popeye_the_Sailor_ES_HITS_AND_MISSILES_S1E1/720p/20210216_145251/hls/0-345346/hls_2400-00000.ts
@@ -215,8 +213,6 @@ https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_C
 #EXT-X-KEY:METHOD=AES-128,URI="https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_Classic_Popeye_aka_Popeye_the_Sailor_ES_HITS_AND_MISSILES_S1E1/720p/20210216_145251/hls/0-345346/hls_2400_keyfile_11.key",IV=0x00000000000000000000000000000046
 #EXTINF:0.366667,
 https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_Classic_Popeye_aka_Popeye_the_Sailor_ES_HITS_AND_MISSILES_S1E1/720p/20210216_145251/hls/0-345346/hls_2400-00069.ts
-#EXT-X-DISCONTINUITY
-#EXT-X-PROGRAM-DATE-TIME:2021-11-13T11:35:38.418Z
 #EXT-X-KEY:METHOD=AES-128,URI="https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_Classic_Popeye_aka_Popeye_the_Sailor_ES_HITS_AND_MISSILES_S1E1/720p/20210216_145251/hls/345347-689056/hls_2400_keyfile_0.key",IV=0x00000000000000000000000000000001
 #EXTINF:5,
 https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_Classic_Popeye_aka_Popeye_the_Sailor_ES_HITS_AND_MISSILES_S1E1/720p/20210216_145251/hls/345347-689056/hls_2400-00000.ts
@@ -424,8 +420,6 @@ https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_C
 #EXT-X-KEY:METHOD=AES-128,URI="https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_Classic_Popeye_aka_Popeye_the_Sailor_ES_HITS_AND_MISSILES_S1E1/720p/20210216_145251/hls/345347-689056/hls_2400_keyfile_11.key",IV=0x00000000000000000000000000000045
 #EXTINF:3.7,
 https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_Classic_Popeye_aka_Popeye_the_Sailor_ES_HITS_AND_MISSILES_S1E1/720p/20210216_145251/hls/345347-689056/hls_2400-00068.ts
-#EXT-X-DISCONTINUITY
-#EXT-X-PROGRAM-DATE-TIME:2021-11-13T11:41:22.118Z
 #EXT-X-KEY:METHOD=AES-128,URI="https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_Classic_Popeye_aka_Popeye_the_Sailor_ES_HITS_AND_MISSILES_S1E1/720p/20210216_145251/hls/689057-1032466/hls_2400_keyfile_0.key",IV=0x00000000000000000000000000000001
 #EXTINF:5,
 https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_Classic_Popeye_aka_Popeye_the_Sailor_ES_HITS_AND_MISSILES_S1E1/720p/20210216_145251/hls/689057-1032466/hls_2400-00000.ts
@@ -633,8 +627,6 @@ https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_C
 #EXT-X-KEY:METHOD=AES-128,URI="https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_Classic_Popeye_aka_Popeye_the_Sailor_ES_HITS_AND_MISSILES_S1E1/720p/20210216_145251/hls/689057-1032466/hls_2400_keyfile_11.key",IV=0x00000000000000000000000000000045
 #EXTINF:3.4,
 https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_Classic_Popeye_aka_Popeye_the_Sailor_ES_HITS_AND_MISSILES_S1E1/720p/20210216_145251/hls/689057-1032466/hls_2400-00068.ts
-#EXT-X-DISCONTINUITY
-#EXT-X-PROGRAM-DATE-TIME:2021-11-13T11:47:05.518Z
 #EXT-X-KEY:METHOD=AES-128,URI="https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_Classic_Popeye_aka_Popeye_the_Sailor_ES_HITS_AND_MISSILES_S1E1/720p/20210216_145251/hls/1032467-end/hls_2400_keyfile_0.key",IV=0x00000000000000000000000000000001
 #EXTINF:5,
 https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/602c4cc2387c78001ab20dd9_Classic_Popeye_aka_Popeye_the_Sailor_ES_HITS_AND_MISSILES_S1E1/720p/20210216_145251/hls/1032467-end/hls_2400-00000.ts
