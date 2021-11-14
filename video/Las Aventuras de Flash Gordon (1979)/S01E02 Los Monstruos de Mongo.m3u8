@@ -2,9 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-TARGETDURATION:5
-
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-PROGRAM-DATE-TIME:2021-11-14T08:49:26.191Z
 #EXT-X-KEY:METHOD=AES-128,URI="https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/5f987c6c79094d001ae6af46_The_Adventures_of_Flash_Gordon_LAS_Los_Monstruos_de_Mongo_S1E2/720p/20201027_130044/hls/0-348307/hls_2400_keyfile_0.key",IV=0x00000000000000000000000000000001
 #EXTINF:5,
 https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/5f987c6c79094d001ae6af46_The_Adventures_of_Flash_Gordon_LAS_Los_Monstruos_de_Mongo_S1E2/720p/20201027_130044/hls/0-348307/hls_2400-00000.ts
