@@ -1,0 +1,4 @@
+{
+  "Series": "Series Británicas",
+  "url": "https://service-vod.clusters.pluto.tv/v3/vod/categories/61f3d39e0ac0060007613d6a/items?offset=30&page=0&includeCategoryFields=imageFeatured,iconPng&itemOffset=10000&advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&app_name=web&clientDeviceType=0&clientID=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&clientModelNumber=na&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=&deviceType=web&deviceVersion=86.0.4240.75&marketingRegion=US&serverSideAds=false&sessionID=3422b740-0c64-11eb-9b97-0242ac110002&sid=3422b740-0c64-11eb-9b97-0242ac110002&userId=&attributeV4=foo"
+}
