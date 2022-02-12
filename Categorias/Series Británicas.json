@@ -13,7 +13,7 @@ totalItemsCount: 17,
 mainCategories: [ ],
 items: [
 {
-_id: "6200e2f412f2e7001ac4247f",
+_id:"6200e2f412f2e7001ac4247f",
 slug: "young-dracula-es",
 name: "El jovencito Drácula",
 summary: "El joven Drácula sigue las aventuras de Vlad, el imparable hijo del Conde Drácula, que debe lidiar con la vida en una zona residencial británica, con su entrometida familia y con el asuntillo de su destino ¡como líder de toda la raza vampírica!",
