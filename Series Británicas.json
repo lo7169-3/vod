@@ -1,0 +1,640 @@
+{
+_id: "61f3d39e0ac0060007613d6a",
+name: "Series Británicas",
+iconPng: {
+path: "https://s3.amazonaws.com/pluto.tv/vodcategories/61f3d39e0ac0060007613d6a/iconPng-1643369409038.png"
+},
+imageFeatured: {
+path: "https://images.pluto.tv/assets/images/default/vodcategory.id-imageFeatured.jpg"
+},
+plutoOfficeOnly: false,
+page: 1,
+offset: 30,
+totalItemsCount: 17,
+mainCategories: [ ],
+items: [
+{
+_id: "6200e2f412f2e7001ac4247f",
+slug: "young-dracula-es",
+name: "El jovencito Drácula",
+summary: "El joven Drácula sigue las aventuras de Vlad, el imparable hijo del Conde Drácula, que debe lidiar con la vida en una zona residencial británica, con su entrometida familia y con el asuntillo de su destino ¡como líder de toda la raza vampírica!",
+description: "El joven Drácula sigue las aventuras de Vlad, el imparable hijo del Conde Drácula, que debe lidiar con la vida en una zona residencial británica, con su entrometida familia y con el asuntillo de su destino ¡como líder de toda la raza vampírica!",
+originalContentDuration: 0,
+rating: "+7",
+featuredImage: {
+path: "https://api.pluto.tv/v3/images/series/6200e2f412f2e7001ac4247f/featuredImage.jpg"
+},
+genre: "Familia",
+type: "series",
+seasonsNumbers: [
+1
+],
+stitched: {
+urls: [
+{
+type: "hls",
+url: "https://service-vod.clusters.pluto.tv/v3/vod/series/6200e2f412f2e7001ac4247f/seasons?includeItems=true&includeCategoryFields=imageFeatured,iconPng&itemOffset=10000&advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&app_name=web&clientDeviceType=0&clientID=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&clientModelNumber=na&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Chrome&deviceModel=&deviceType=web&deviceVersion=86.0.4240.75&marketingRegion=US&serverSideAds=false&sessionID=3422b740-0c64-11eb-9b97-0242ac110002&sid=3422b740-0c64-11eb-9b97-0242ac110002&userId=&attributeV4=foo"
+}
+],
+sessionURL: "https://service-stitcher-ipv4.clusters.pluto.tv/session/3422b740-0c64-11eb-9b97-0242ac110002.json"
+},
+covers: [
+{
+aspectRatio: "347:500",
+url: "https://images.pluto.tv/series/6200e2f412f2e7001ac4247f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+},
+{
+aspectRatio: "1:1",
+url: "https://images.pluto.tv/series/6200e2f412f2e7001ac4247f/tile.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660"
+}
+]
+},
+{
+_id: "61163dbead40550013ab41ac",
+slug: "the-musketeers-series-1-es",
+name: "Los Mosqueteros: Serie 1",
+summary: "En las calles de París en el siglo XVII, la ley y el orden son más una idea que una realidad. Los mosqueteros, Athos, Porthos y Aramis, guardaespaldas del rey Luis XIII, que empezaron a luchar por la justicia en un mundo peligroso.",
+description: "En las calles de París en el siglo XVII, la ley y el orden son más una idea que una realidad. Los mosqueteros, Athos, Porthos y Aramis, guardaespaldas del rey Luis XIII, que empezaron a luchar por la justicia en un mundo peligroso.",
+originalContentDuration: 0,
+rating: "+12",
+featuredImage: {
+path: "https://api.pluto.tv/v3/images/series/61163dbead40550013ab41ac/featuredImage.jpg"
+},
+genre: "Clásicos",
+type: "series",
+seasonsNumbers: [
+1
+],
+stitched: {
+urls: [
+{
+type: "hls",
+url: "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/61163dbead40550013ab41ac/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.4050&deviceLon=-3.8783&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=86.0.4240.75&includeExtendedEvents=false&marketingRegion=ES&sid=3422b740-0c64-11eb-9b97-0242ac110002&userId="
+}
+],
+sessionURL: "https://service-stitcher-ipv4.clusters.pluto.tv/session/3422b740-0c64-11eb-9b97-0242ac110002.json"
+},
+covers: [
+{
+aspectRatio: "347:500",
+url: "https://images.pluto.tv/series/61163dbead40550013ab41ac/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+},
+{
+aspectRatio: "1:1",
+url: "https://images.pluto.tv/series/61163dbead40550013ab41ac/tile.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660"
+}
+]
+},
+{
+_id: "611a40eae43c55001a662916",
+slug: "the-musketeers-series-2-es",
+name: "Los Mosqueteros: Serie 2",
+summary: "Los mosqueteros regresan en una segunda temporada sorprendente. Mientras Francia se tambalea al borde de la guerra con España, la muerte del Cardenal Richelieu deja un vacío que puede llenarse con una amenaza aún más oscura.",
+description: "Los mosqueteros regresan en una segunda temporada sorprendente. Mientras Francia se tambalea al borde de la guerra con España, la muerte del Cardenal Richelieu deja un vacío que puede llenarse con una amenaza aún más oscura.",
+originalContentDuration: 0,
+rating: "+12",
+featuredImage: {
+path: "https://api.pluto.tv/v3/images/series/611a40eae43c55001a662916/featuredImage.jpg"
+},
+genre: "Clásicos",
+type: "series",
+seasonsNumbers: [
+2
+],
+stitched: {
+urls: [
+{
+type: "hls",
+url: "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/611a40eae43c55001a662916/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.4050&deviceLon=-3.8783&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=86.0.4240.75&includeExtendedEvents=false&marketingRegion=ES&sid=3422b740-0c64-11eb-9b97-0242ac110002&userId="
+}
+],
+sessionURL: "https://service-stitcher-ipv4.clusters.pluto.tv/session/3422b740-0c64-11eb-9b97-0242ac110002.json"
+},
+covers: [
+{
+aspectRatio: "347:500",
+url: "https://images.pluto.tv/series/611a40eae43c55001a662916/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+},
+{
+aspectRatio: "1:1",
+url: "https://images.pluto.tv/series/611a40eae43c55001a662916/tile.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660"
+}
+]
+},
+{
+_id: "611a40f9e43c55001a662f10",
+slug: "the-musketeers-series-3-es",
+name: "Los Mosqueteros: Serie 3",
+summary: "Después de cuatro años en guerra, los mosqueteros vuelven a un París enfurecido por la pobreza y la violencia. Un rey aparentemente indiferente ha confiado sus asuntos corruptos al nuevo gobernador de París, Philippe Feron.",
+description: "Después de cuatro años en guerra, los mosqueteros vuelven a un París enfurecido por la pobreza y la violencia. Un rey aparentemente indiferente ha confiado sus asuntos corruptos al nuevo gobernador de París, Philippe Feron.",
+originalContentDuration: 0,
+rating: "+12",
+featuredImage: {
+path: "https://api.pluto.tv/v3/images/series/611a40f9e43c55001a662f10/featuredImage.jpg"
+},
+genre: "Clásicos",
+type: "series",
+seasonsNumbers: [
+3
+],
+stitched: {
+urls: [
+{
+type: "hls",
+url: "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/611a40f9e43c55001a662f10/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.4050&deviceLon=-3.8783&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=86.0.4240.75&includeExtendedEvents=false&marketingRegion=ES&sid=3422b740-0c64-11eb-9b97-0242ac110002&userId="
+}
+],
+sessionURL: "https://service-stitcher-ipv4.clusters.pluto.tv/session/3422b740-0c64-11eb-9b97-0242ac110002.json"
+},
+covers: [
+{
+aspectRatio: "347:500",
+url: "https://images.pluto.tv/series/611a40f9e43c55001a662f10/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+},
+{
+aspectRatio: "1:1",
+url: "https://images.pluto.tv/series/611a40f9e43c55001a662f10/tile.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660"
+}
+]
+},
+{
+_id: "611e12f04395a400138ace46",
+slug: "the-guilty-es",
+name: "Culpable",
+summary: "En el verano de 2008, Callum, de cuatro años, desaparece en una fiesta de barrio. Cinco años más tarde se encuentra su cuerpo enterrado a tan solo pocas yardas de su puerta. Y así empieza una vez más la pesadilla de la familia y los vecinos de Callum.",
+description: "En el verano de 2008, Callum, de cuatro años, desaparece en una fiesta de barrio. Cinco años más tarde se encuentra su cuerpo enterrado a tan solo pocas yardas de su puerta. Y así empieza una vez más la pesadilla de la familia y los vecinos de Callum.",
+originalContentDuration: 0,
+rating: "+12",
+featuredImage: {
+path: "https://api.pluto.tv/v3/images/series/611e12f04395a400138ace46/featuredImage.jpg"
+},
+genre: "Clásicos",
+type: "series",
+seasonsNumbers: [
+1
+],
+stitched: {
+urls: [
+{
+type: "hls",
+url: "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/611e12f04395a400138ace46/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.4050&deviceLon=-3.8783&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=86.0.4240.75&includeExtendedEvents=false&marketingRegion=ES&sid=3422b740-0c64-11eb-9b97-0242ac110002&userId="
+}
+],
+sessionURL: "https://service-stitcher-ipv4.clusters.pluto.tv/session/3422b740-0c64-11eb-9b97-0242ac110002.json"
+},
+covers: [
+{
+aspectRatio: "347:500",
+url: "https://images.pluto.tv/series/611e12f04395a400138ace46/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+},
+{
+aspectRatio: "1:1",
+url: "https://images.pluto.tv/series/611e12f04395a400138ace46/tile.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660"
+}
+]
+},
+{
+_id: "61152a41975c210013c1a309",
+slug: "the-game-es",
+name: "El Juego",
+summary: "Un thriller de espías atrevido y sofisticado que tiene lugar en la Guerra Fría, donde los enemigos y los aliados no siempre se pueden separar y donde el espionaje significa mancharte las manos.",
+description: "Un thriller de espías atrevido y sofisticado que tiene lugar en la Guerra Fría, donde los enemigos y los aliados no siempre se pueden separar y donde el espionaje significa mancharte las manos.",
+originalContentDuration: 0,
+rating: "+12",
+featuredImage: {
+path: "https://api.pluto.tv/v3/images/series/61152a41975c210013c1a309/featuredImage.jpg"
+},
+genre: "Clásicos",
+type: "series",
+seasonsNumbers: [
+1
+],
+stitched: {
+urls: [
+{
+type: "hls",
+url: "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/61152a41975c210013c1a309/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.4050&deviceLon=-3.8783&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=86.0.4240.75&includeExtendedEvents=false&marketingRegion=ES&sid=3422b740-0c64-11eb-9b97-0242ac110002&userId="
+}
+],
+sessionURL: "https://service-stitcher-ipv4.clusters.pluto.tv/session/3422b740-0c64-11eb-9b97-0242ac110002.json"
+},
+covers: [
+{
+aspectRatio: "347:500",
+url: "https://images.pluto.tv/series/61152a41975c210013c1a309/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+},
+{
+aspectRatio: "1:1",
+url: "https://images.pluto.tv/series/61152a41975c210013c1a309/tile.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660"
+}
+]
+},
+{
+_id: "615d4fb110e1e8001b6b8f7b",
+slug: "north-and-south-es",
+name: "Norte & Sur",
+summary: "La historia de amor de Elizabeth Gaskell a través de la división social cobra vida en la adaptación de cuatro partes de Sandy Welch.",
+description: "La historia de amor de Elizabeth Gaskell a través de la división social cobra vida en la adaptación de cuatro partes de Sandy Welch.",
+originalContentDuration: 0,
+rating: "+12",
+featuredImage: {
+path: "https://api.pluto.tv/v3/images/series/615d4fb110e1e8001b6b8f7b/featuredImage.jpg"
+},
+genre: "Clásicos",
+type: "series",
+seasonsNumbers: [
+1
+],
+stitched: {
+urls: [
+{
+type: "hls",
+url: "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/615d4fb110e1e8001b6b8f7b/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.4050&deviceLon=-3.8783&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=86.0.4240.75&includeExtendedEvents=false&marketingRegion=ES&sid=3422b740-0c64-11eb-9b97-0242ac110002&userId="
+}
+],
+sessionURL: "https://service-stitcher-ipv4.clusters.pluto.tv/session/3422b740-0c64-11eb-9b97-0242ac110002.json"
+},
+covers: [
+{
+aspectRatio: "347:500",
+url: "https://images.pluto.tv/series/615d4fb110e1e8001b6b8f7b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+},
+{
+aspectRatio: "1:1",
+url: "https://images.pluto.tv/series/615d4fb110e1e8001b6b8f7b/tile.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660"
+}
+]
+},
+{
+_id: "611529c2975c210013c19d76",
+slug: "great-expectations-es",
+name: "Grandes esperanzas",
+summary: "Una adaptación apasionada y cruda de una de las mejores novelas de Dickens, protagonizada por Ray Winstone, Gillian Anderson y Douglas Booth. Con intriga y misterio, esta es una historia épica de obsesión, corrupción, venganza, redención y perdón.",
+description: "Una adaptación apasionada y cruda de una de las mejores novelas de Dickens, protagonizada por Ray Winstone, Gillian Anderson y Douglas Booth. Con intriga y misterio, esta es una historia épica de obsesión, corrupción, venganza, redención y perdón.",
+originalContentDuration: 0,
+rating: "+12",
+featuredImage: {
+path: "https://api.pluto.tv/v3/images/series/611529c2975c210013c19d76/featuredImage.jpg"
+},
+genre: "Clásicos",
+type: "series",
+seasonsNumbers: [
+1
+],
+stitched: {
+urls: [
+{
+type: "hls",
+url: "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/611529c2975c210013c19d76/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.4050&deviceLon=-3.8783&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=86.0.4240.75&includeExtendedEvents=false&marketingRegion=ES&sid=3422b740-0c64-11eb-9b97-0242ac110002&userId="
+}
+],
+sessionURL: "https://service-stitcher-ipv4.clusters.pluto.tv/session/3422b740-0c64-11eb-9b97-0242ac110002.json"
+},
+covers: [
+{
+aspectRatio: "347:500",
+url: "https://images.pluto.tv/series/611529c2975c210013c19d76/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+},
+{
+aspectRatio: "1:1",
+url: "https://images.pluto.tv/series/611529c2975c210013c19d76/tile.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660"
+}
+]
+},
+{
+_id: "5f6b0e0fe657fb00130e5f92",
+slug: "the-hour-es",
+name: "The Hour",
+summary: "La segunda temporada de "The Hour" empieza con la presentación del nuevo Jefe de Noticias, Randall Brown, y Freddie regresa contratado como co-presentador. Pero los problemas vienen cuando Héctor se ve envuelto en un escándalo.",
+description: "La segunda temporada de "The Hour" empieza con la presentación del nuevo Jefe de Noticias, Randall Brown, y Freddie regresa contratado como co-presentador. Pero los problemas vienen cuando Héctor se ve envuelto en un escándalo.",
+originalContentDuration: 0,
+rating: "+12",
+featuredImage: {
+path: "https://api.pluto.tv/v3/images/series/5f6b0e0fe657fb00130e5f92/featuredImage.jpg"
+},
+genre: "Clásicos",
+type: "series",
+seasonsNumbers: [
+1,
+2
+],
+stitched: {
+urls: [
+{
+type: "hls",
+url: "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/5f6b0e0fe657fb00130e5f92/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.4050&deviceLon=-3.8783&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=86.0.4240.75&includeExtendedEvents=false&marketingRegion=ES&sid=3422b740-0c64-11eb-9b97-0242ac110002&userId="
+}
+],
+sessionURL: "https://service-stitcher-ipv4.clusters.pluto.tv/session/3422b740-0c64-11eb-9b97-0242ac110002.json"
+},
+covers: [
+{
+aspectRatio: "347:500",
+url: "https://images.pluto.tv/series/5f6b0e0fe657fb00130e5f92/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+},
+{
+aspectRatio: "1:1",
+url: "https://images.pluto.tv/series/5f6b0e0fe657fb00130e5f92/tile.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660"
+}
+]
+},
+{
+_id: "5f685631593df4001aa856fc",
+slug: "midsomer-murders-es",
+name: "Los asesinatos de Midsomer",
+summary: "Basada en las premiadas novelas policíacas de Caroline Graham. Chantaje, intriga, engaño y adulterio abundan en Midsomer, un condado aparentemente idílico donde el inspector jefe Barnaby investiga todo tipo de sucesos ruines.",
+description: "Basada en las premiadas novelas policíacas de Caroline Graham. Chantaje, intriga, engaño y adulterio abundan en Midsomer, un condado aparentemente idílico donde el inspector jefe Barnaby investiga todo tipo de sucesos ruines.",
+originalContentDuration: 0,
+rating: "Not Rated",
+featuredImage: {
+path: "https://api.pluto.tv/v3/images/series/5f685631593df4001aa856fc/featuredImage.jpg"
+},
+genre: "Clásicos",
+type: "series",
+seasonsNumbers: [
+1,
+2,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12
+],
+stitched: {
+urls: [
+{
+type: "hls",
+url: "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/5f685631593df4001aa856fc/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.4050&deviceLon=-3.8783&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=86.0.4240.75&includeExtendedEvents=false&marketingRegion=ES&sid=3422b740-0c64-11eb-9b97-0242ac110002&userId="
+}
+],
+sessionURL: "https://service-stitcher-ipv4.clusters.pluto.tv/session/3422b740-0c64-11eb-9b97-0242ac110002.json"
+},
+covers: [
+{
+aspectRatio: "347:500",
+url: "https://images.pluto.tv/series/5f685631593df4001aa856fc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+},
+{
+aspectRatio: "1:1",
+url: "https://images.pluto.tv/series/5f685631593df4001aa856fc/tile.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660"
+}
+]
+},
+{
+_id: "5f4e8dac66db1f001be3386b",
+slug: "archangel-es",
+name: "Arcángel",
+summary: "Fluke Kelso es un historiador que está investigando en Moscú los archivos soviéticos. Una noche recibe la visita de un antiguo miembro de la guardia personal de Stalin. Éste le habla de unos documentos, enterrados en el jardín de una casa de la ciudad.",
+description: "Fluke Kelso es un historiador que está investigando en Moscú los archivos soviéticos. Una noche recibe la visita de un antiguo miembro de la guardia personal de Stalin. Éste le habla de unos documentos, enterrados en el jardín de una casa de la ciudad.",
+originalContentDuration: 0,
+rating: "+12",
+featuredImage: {
+path: "https://api.pluto.tv/v3/images/series/5f4e8dac66db1f001be3386b/featuredImage.jpg"
+},
+genre: "Suspenso",
+type: "series",
+seasonsNumbers: [
+1
+],
+stitched: {
+urls: [
+{
+type: "hls",
+url: "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/5f4e8dac66db1f001be3386b/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.4050&deviceLon=-3.8783&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=86.0.4240.75&includeExtendedEvents=false&marketingRegion=ES&sid=3422b740-0c64-11eb-9b97-0242ac110002&userId="
+}
+],
+sessionURL: "https://service-stitcher-ipv4.clusters.pluto.tv/session/3422b740-0c64-11eb-9b97-0242ac110002.json"
+},
+covers: [
+{
+aspectRatio: "347:500",
+url: "https://images.pluto.tv/series/5f4e8dac66db1f001be3386b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+},
+{
+aspectRatio: "1:1",
+url: "https://images.pluto.tv/series/5f4e8dac66db1f001be3386b/tile.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660"
+}
+]
+},
+{
+_id: "60769ac7e85e72001a65dfb2",
+slug: "mrs-wilson-es",
+name: "Mrs Wilson",
+summary: "Ruth Wilson, actriz ganadora de un Globo de Oro, es la protagonista de este drama en tres partes inspirado en las memorias de su abuela sobre la historia de su familia.",
+description: "Ruth Wilson, actriz ganadora de un Globo de Oro, es la protagonista de este drama en tres partes inspirado en las memorias de su abuela sobre la historia de su familia.",
+originalContentDuration: 0,
+rating: "+12",
+featuredImage: {
+path: "https://api.pluto.tv/v3/images/series/60769ac7e85e72001a65dfb2/featuredImage.jpg"
+},
+genre: "Clásicos",
+type: "series",
+seasonsNumbers: [
+1
+],
+stitched: {
+urls: [
+{
+type: "hls",
+url: "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/60769ac7e85e72001a65dfb2/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.4050&deviceLon=-3.8783&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=86.0.4240.75&includeExtendedEvents=false&marketingRegion=ES&sid=3422b740-0c64-11eb-9b97-0242ac110002&userId="
+}
+],
+sessionURL: "https://service-stitcher-ipv4.clusters.pluto.tv/session/3422b740-0c64-11eb-9b97-0242ac110002.json"
+},
+covers: [
+{
+aspectRatio: "347:500",
+url: "https://images.pluto.tv/series/60769ac7e85e72001a65dfb2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+},
+{
+aspectRatio: "1:1",
+url: "https://images.pluto.tv/series/60769ac7e85e72001a65dfb2/tile.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660"
+}
+]
+},
+{
+_id: "5f89ffa5f75820001aa7bce4",
+slug: "dark-angel-es",
+name: "Dark Angel",
+summary: "Mary Ann Cotton es una asesina en serie cuyos métodos no dejan rastro alguno, ya que la sociedad victoriana no puede sospechar de una mujer capaz de tan terribles crímenes.",
+description: "Mary Ann Cotton es una asesina en serie cuyos métodos no dejan rastro alguno, ya que la sociedad victoriana no puede sospechar de una mujer capaz de tan terribles crímenes.",
+originalContentDuration: 0,
+rating: "+12",
+featuredImage: {
+path: "https://api.pluto.tv/v3/images/series/5f89ffa5f75820001aa7bce4/featuredImage.jpg"
+},
+genre: "Acción y aventura",
+type: "series",
+seasonsNumbers: [
+1
+],
+stitched: {
+urls: [
+{
+type: "hls",
+url: "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/5f89ffa5f75820001aa7bce4/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.4050&deviceLon=-3.8783&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=86.0.4240.75&includeExtendedEvents=false&marketingRegion=ES&sid=3422b740-0c64-11eb-9b97-0242ac110002&userId="
+}
+],
+sessionURL: "https://service-stitcher-ipv4.clusters.pluto.tv/session/3422b740-0c64-11eb-9b97-0242ac110002.json"
+},
+covers: [
+{
+aspectRatio: "347:500",
+url: "https://images.pluto.tv/series/5f89ffa5f75820001aa7bce4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+},
+{
+aspectRatio: "1:1",
+url: "https://images.pluto.tv/series/5f89ffa5f75820001aa7bce4/tile.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660"
+}
+]
+},
+{
+_id: "60769ad4e85e72001a65e0b5",
+slug: "inocente",
+name: "Inocente",
+summary: "Amor, lujuria, celos y traición. Innocent es la historia de la lucha de un hombre por reconstruir su vida y los esfuerzos de una familia por descubrir la verdad sobre el asesinato de un ser querido.",
+description: "Amor, lujuria, celos y traición. Innocent es la historia de la lucha de un hombre por reconstruir su vida y los esfuerzos de una familia por descubrir la verdad sobre el asesinato de un ser querido.",
+originalContentDuration: 0,
+rating: "+12",
+featuredImage: {
+path: "https://api.pluto.tv/v3/images/series/60769ad4e85e72001a65e0b5/featuredImage.jpg"
+},
+genre: "Suspenso",
+type: "series",
+seasonsNumbers: [
+1
+],
+stitched: {
+urls: [
+{
+type: "hls",
+url: "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/60769ad4e85e72001a65e0b5/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.4050&deviceLon=-3.8783&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=86.0.4240.75&includeExtendedEvents=false&marketingRegion=ES&sid=3422b740-0c64-11eb-9b97-0242ac110002&userId="
+}
+],
+sessionURL: "https://service-stitcher-ipv4.clusters.pluto.tv/session/3422b740-0c64-11eb-9b97-0242ac110002.json"
+},
+covers: [
+{
+aspectRatio: "347:500",
+url: "https://images.pluto.tv/series/60769ad4e85e72001a65e0b5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+},
+{
+aspectRatio: "1:1",
+url: "https://images.pluto.tv/series/60769ad4e85e72001a65e0b5/tile.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660"
+}
+]
+},
+{
+_id: "5f4f5cfbfa72a5001a5fdb2e",
+slug: "flood-es",
+name: "Flood",
+summary: "Unas tormentas origina inmensas olas que amenazan la costa de Inglaterra. Militares e ingenieros intentarán hacer todo lo posible para evitar que Londres sea devastada por una terrible inundación. Las vidas de millones de londinenses están en juego.",
+description: "Unas tormentas origina inmensas olas que amenazan la costa de Inglaterra. Militares e ingenieros intentarán hacer todo lo posible para evitar que Londres sea devastada por una terrible inundación. Las vidas de millones de londinenses están en juego.",
+originalContentDuration: 0,
+rating: "+12",
+featuredImage: {
+path: "https://api.pluto.tv/v3/images/series/5f4f5cfbfa72a5001a5fdb2e/featuredImage.jpg"
+},
+genre: "Acción y aventura",
+type: "series",
+seasonsNumbers: [
+1
+],
+stitched: {
+urls: [
+{
+type: "hls",
+url: "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/5f4f5cfbfa72a5001a5fdb2e/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.4050&deviceLon=-3.8783&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=86.0.4240.75&includeExtendedEvents=false&marketingRegion=ES&sid=3422b740-0c64-11eb-9b97-0242ac110002&userId="
+}
+],
+sessionURL: "https://service-stitcher-ipv4.clusters.pluto.tv/session/3422b740-0c64-11eb-9b97-0242ac110002.json"
+},
+covers: [
+{
+aspectRatio: "347:500",
+url: "https://images.pluto.tv/series/5f4f5cfbfa72a5001a5fdb2e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+},
+{
+aspectRatio: "1:1",
+url: "https://images.pluto.tv/series/5f4f5cfbfa72a5001a5fdb2e/tile.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660"
+}
+]
+},
+{
+_id: "5f4f5d13fa72a5001a5fddff",
+slug: "to-the-ends-of-the-earth-es",
+name: "Viaje a los Confines de la Tierra",
+summary: "En 1812, Europa se halla inmersa en las Guerras Napoleónicas. Edmund Talbot, un joven aristócrata, se prepara para un puesto gubernamental en Australia y para el viaje por mar de varios meses que le llevará hasta allí.",
+description: "En 1812, Europa se halla inmersa en las Guerras Napoleónicas. Edmund Talbot, un joven aristócrata, se prepara para un puesto gubernamental en Australia y para el viaje por mar de varios meses que le llevará hasta allí.",
+originalContentDuration: 0,
+rating: "+12",
+featuredImage: {
+path: "https://api.pluto.tv/v3/images/series/5f4f5d13fa72a5001a5fddff/featuredImage.jpg"
+},
+genre: "Clásicos",
+type: "series",
+seasonsNumbers: [
+1
+],
+stitched: {
+urls: [
+{
+type: "hls",
+url: "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/5f4f5d13fa72a5001a5fddff/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.4050&deviceLon=-3.8783&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=86.0.4240.75&includeExtendedEvents=false&marketingRegion=ES&sid=3422b740-0c64-11eb-9b97-0242ac110002&userId="
+}
+],
+sessionURL: "https://service-stitcher-ipv4.clusters.pluto.tv/session/3422b740-0c64-11eb-9b97-0242ac110002.json"
+},
+covers: [
+{
+aspectRatio: "347:500",
+url: "https://images.pluto.tv/series/5f4f5d13fa72a5001a5fddff/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+},
+{
+aspectRatio: "1:1",
+url: "https://images.pluto.tv/series/5f4f5d13fa72a5001a5fddff/tile.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660"
+}
+]
+},
+{
+_id: "5f4ead26db45a1001a7953c5",
+slug: "the-virgin-queen-es",
+name: "La reina virgen",
+summary: "Isabel I se corona como la reina de Inglaterra e Irlanda en 1558. Su personalidad está marcada por la ejecución de su madre, Ana Bolena, cuando ella tenía sólo tres años. Miniserie que se basa en la vida privada de la famosa monarca hija de Enrique VIII.",
+description: "Isabel I se corona como la reina de Inglaterra e Irlanda en 1558. Su personalidad está marcada por la ejecución de su madre, Ana Bolena, cuando ella tenía sólo tres años. Miniserie que se basa en la vida privada de la famosa monarca hija de Enrique VIII.",
+originalContentDuration: 0,
+rating: "+12",
+featuredImage: {
+path: "https://api.pluto.tv/v3/images/series/5f4ead26db45a1001a7953c5/featuredImage.jpg"
+},
+genre: "Clásicos",
+type: "series",
+seasonsNumbers: [
+1
+],
+stitched: {
+urls: [
+{
+type: "hls",
+url: "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/5f4ead26db45a1001a7953c5/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceLat=40.4050&deviceLon=-3.8783&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=86.0.4240.75&includeExtendedEvents=false&marketingRegion=ES&sid=3422b740-0c64-11eb-9b97-0242ac110002&userId="
+}
+],
+sessionURL: "https://service-stitcher-ipv4.clusters.pluto.tv/session/3422b740-0c64-11eb-9b97-0242ac110002.json"
+},
+covers: [
+{
+aspectRatio: "347:500",
+url: "https://images.pluto.tv/series/5f4ead26db45a1001a7953c5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694"
+},
+{
+aspectRatio: "1:1",
+url: "https://images.pluto.tv/series/5f4ead26db45a1001a7953c5/tile.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660"
+}
+]
+}
+]
+}
