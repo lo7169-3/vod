@@ -2,7 +2,6 @@
 #EXT-X-VERSION:3
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-TARGETDURATION:5
-#EXT-X-DISCONTINUITY-SEQUENCE:0
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PROGRAM-DATE-TIME:2023-04-15T09:03:13.808Z
 #EXT-X-KEY:METHOD=AES-128,URI="https://siloh-aka.plutotv.net/583_pluto/clip/643667d520cb77001af1260f_Charlies_Angels_ES_En_Recuerdo_de_Rosemary_S3E61/720p/20230412_011206/hls/0-646280/hls_2400_keyfile_0.key",IV=0x00000000000000000000000000000001
@@ -395,8 +394,6 @@ https://siloh-aka.plutotv.net/583_pluto/clip/643667d520cb77001af1260f_Charlies_A
 #EXT-X-KEY:METHOD=AES-128,URI="https://siloh-aka.plutotv.net/583_pluto/clip/643667d520cb77001af1260f_Charlies_Angels_ES_En_Recuerdo_de_Rosemary_S3E61/720p/20230412_011206/hls/0-646280/hls_2400_keyfile_0.key",IV=0x00000000000000000000000000000082
 #EXTINF:1.3,
 https://siloh-aka.plutotv.net/583_pluto/clip/643667d520cb77001af1260f_Charlies_Angels_ES_En_Recuerdo_de_Rosemary_S3E61/720p/20230412_011206/hls/0-646280/hls_2400-00129.ts
-#EXT-X-DISCONTINUITY
-#EXT-X-PROGRAM-DATE-TIME:2023-04-15T09:14:00.108Z
 #EXT-X-KEY:METHOD=AES-128,URI="https://siloh-aka.plutotv.net/583_pluto/clip/643667d520cb77001af1260f_Charlies_Angels_ES_En_Recuerdo_de_Rosemary_S3E61/720p/20230412_011206/hls/646281-1465000/hls_2400_keyfile_0.key",IV=0x00000000000000000000000000000001
 #EXTINF:5,
 https://siloh-aka.plutotv.net/583_pluto/clip/643667d520cb77001af1260f_Charlies_Angels_ES_En_Recuerdo_de_Rosemary_S3E61/720p/20230412_011206/hls/646281-1465000/hls_2400-00000.ts
@@ -889,8 +886,6 @@ https://siloh-aka.plutotv.net/583_pluto/clip/643667d520cb77001af1260f_Charlies_A
 #EXT-X-KEY:METHOD=AES-128,URI="https://siloh-aka.plutotv.net/583_pluto/clip/643667d520cb77001af1260f_Charlies_Angels_ES_En_Recuerdo_de_Rosemary_S3E61/720p/20230412_011206/hls/646281-1465000/hls_2400_keyfile_0.key",IV=0x000000000000000000000000000000a4
 #EXTINF:3.7,
 https://siloh-aka.plutotv.net/583_pluto/clip/643667d520cb77001af1260f_Charlies_Angels_ES_En_Recuerdo_de_Rosemary_S3E61/720p/20230412_011206/hls/646281-1465000/hls_2400-00163.ts
-#EXT-X-DISCONTINUITY
-#EXT-X-PROGRAM-DATE-TIME:2023-04-15T09:27:38.808Z
 #EXT-X-KEY:METHOD=AES-128,URI="https://siloh-aka.plutotv.net/583_pluto/clip/643667d520cb77001af1260f_Charlies_Angels_ES_En_Recuerdo_de_Rosemary_S3E61/720p/20230412_011206/hls/1465001-2189520/hls_2400_keyfile_0.key",IV=0x00000000000000000000000000000001
 #EXTINF:5,
 https://siloh-aka.plutotv.net/583_pluto/clip/643667d520cb77001af1260f_Charlies_Angels_ES_En_Recuerdo_de_Rosemary_S3E61/720p/20230412_011206/hls/1465001-2189520/hls_2400-00000.ts
@@ -1326,8 +1321,6 @@ https://siloh-aka.plutotv.net/583_pluto/clip/643667d520cb77001af1260f_Charlies_A
 #EXT-X-KEY:METHOD=AES-128,URI="https://siloh-aka.plutotv.net/583_pluto/clip/643667d520cb77001af1260f_Charlies_Angels_ES_En_Recuerdo_de_Rosemary_S3E61/720p/20230412_011206/hls/1465001-2189520/hls_2400_keyfile_0.key",IV=0x00000000000000000000000000000091
 #EXTINF:4.5,
 https://siloh-aka.plutotv.net/583_pluto/clip/643667d520cb77001af1260f_Charlies_Angels_ES_En_Recuerdo_de_Rosemary_S3E61/720p/20230412_011206/hls/1465001-2189520/hls_2400-00144.ts
-#EXT-X-DISCONTINUITY
-#EXT-X-PROGRAM-DATE-TIME:2023-04-15T09:39:43.308Z
 #EXT-X-KEY:METHOD=AES-128,URI="https://siloh-aka.plutotv.net/583_pluto/clip/643667d520cb77001af1260f_Charlies_Angels_ES_En_Recuerdo_de_Rosemary_S3E61/720p/20230412_011206/hls/2189521-end/hls_2400_keyfile_0.key",IV=0x00000000000000000000000000000001
 #EXTINF:5,
 https://siloh-aka.plutotv.net/583_pluto/clip/643667d520cb77001af1260f_Charlies_Angels_ES_En_Recuerdo_de_Rosemary_S3E61/720p/20230412_011206/hls/2189521-end/hls_2400-00000.ts
