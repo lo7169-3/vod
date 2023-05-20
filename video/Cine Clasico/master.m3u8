@@ -1,0 +1,62 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=997452
+997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceVersion=86.0.4240.75&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceType=web&deviceMake=Chrome&sid=3422b740-0c64-11eb-9b97-0242ac110002&advertisingId=&deviceLat=40.4050&deviceLon=-3.8783&deviceDNT=0&deviceModel=Chrome&userId=&appName=web
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1539795
+1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceVersion=86.0.4240.75&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceType=web&deviceMake=Chrome&sid=3422b740-0c64-11eb-9b97-0242ac110002&advertisingId=&deviceLat=40.4050&deviceLon=-3.8783&deviceDNT=0&deviceModel=Chrome&userId=&appName=web
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2142297
+2142297/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceVersion=86.0.4240.75&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceType=web&deviceMake=Chrome&sid=3422b740-0c64-11eb-9b97-0242ac110002&advertisingId=&deviceLat=40.4050&deviceLon=-3.8783&deviceDNT=0&deviceModel=Chrome&userId=&appName=web
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3063648
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/61640f7ef3593c001aa34b80/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceVersion=86.0.4240.75&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceType=web&deviceMake=Chrome&sid=3422b740-0c64-11eb-9b97-0242ac110002&advertisingId=&deviceLat=40.4050&deviceLon=-3.8783&deviceDNT=0&deviceModel=Chrome&userId=&appName=web
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=572723
+572723/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=false&architecture=&deviceId=b5f91bb4-ca46-4cef-8ef7-2c4fb807fe79&deviceVersion=86.0.4240.75&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceType=web&deviceMake=Chrome&sid=3422b740-0c64-11eb-9b97-0242ac110002&advertisingId=&deviceLat=40.4050&deviceLon=-3.8783&deviceDNT=0&deviceModel=Chrome&userId=&appName=web
+
+S19E01 Dia de pesca
+S19E02 Ambiente
+S19E03 Contrapaso
+S19E04 Sin razón aparente
+S19E05 Complicado
+S19E06 Consecuencias accidentales
+S19E07 A pasado algo
+S19E08 Intención
+S19E09 Adiós pequeño adiós
+S19E10 Patológico
+S19E11 Riesgo de fuga 
+S19E12 Guerras de información
+S19E13 Territorio sin explorar 
+S19E14 Persiguiendo demonios
+S19E15 In Loco Parentis
+S19E16 Reto
+S19E17 Manda a los payasos
+S19E18 Servicio 
+S19E19 La falacia del costo hundido
+S19E20 El libro de Esther 
+S19E21 Tutor
+S19E22 Mama
+S19E23 Recuerdame
+S19E24 Recuerdame a mi también
+
+
+
+
+S02E02
+6255084
+3 4
+
+
+
+
+
+
+
+
+ [{"key": "010081fe0e504fa927e3de90c5919aa6:5138e2a92649f6404c909aaa3260d4d8"}, {"key": "01051163f21c3b20dc33a88f10f74b28:1d1e99b0a41ec37ee6805837f9a15404"}, {"key": "0102274a0ec4487f69ff6adccf535746:309a804dc11eea35af02d9b02ed939b2"}, {"key": "0101d4224fe1a221c4ec020176b341d6:3544a6392d8c4b5c8e1c8c55caa976cc"}]}
+ 
+  [{"key": "01002bb90537aaa725d94e2aa9d5add5:d1e53dc6039bad6898bda18b4ba7fd78"}, {"key": "01052c82be6fd71306e4472074dc546e:00325beb175706acfd381fa923c56a80"}, {"key": "010241a8af772efc3c212f8e863d8d0a:d9c4ae84ec6713f980286dd712adac64"}, {"key": "01018e9a8dee8299a09c5847e2981db1:11ba904e84aa69a97ed70539942496c0"}]}
+ 
+ 
+ALF S01E01 - A.L.F. [1080p]
+ALF S01E01 - A.L.F. (en)
+S01E01 A.L.F
+010081fe0e504fa927e3de90c5919aa6:5138e2a92649f6404c909aaa3260d4d8
+01051163f21c3b20dc33a88f10f74b28:1d1e99b0a41ec37ee6805837f9a15404
+ 
